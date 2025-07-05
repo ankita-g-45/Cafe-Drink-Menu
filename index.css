@@ -1,0 +1,481 @@
+/* *
+{  
+    border: 1px solid brown; }   */
+.fodily
+{
+   display: flex;
+   background-image: url(cafebg.png);
+   height: 700px;
+   background-repeat: no-repeat;
+
+}
+.logo
+{
+    height: 10px;
+    margin-left: 30px;
+    
+}
+.nevigation
+{
+    display: flex;
+    list-style-type: none;
+    margin-left: 380px;
+    margin-top: 50px;
+    color:azure;
+    /* position: fixed; */
+}
+.nevigation, li
+{
+    padding-left: 40px;
+}
+.img1
+{
+    height: 50px;
+    margin-left: -150px;
+    margin-top: 90px;
+}
+.h1
+{
+margin-left: -1150px;
+margin-top: 230px;
+color: azure;
+height: 200px;
+}
+.h2
+{
+margin-top: 400px;
+margin-left: -400px;
+color: azure;
+}
+.button{
+    
+    margin-top: 500px;
+    margin-left: -800px;
+    border-radius: 360px;
+}
+.nextpage
+{
+    
+   background-image: url(bg200.png);
+    height: 700px;
+   background-repeat: no-repeat; 
+}
+.t1
+{
+    margin-top: -530px;
+    margin-left: 690px;
+    color: yellowgreen;
+}
+.t2
+{
+margin-top: 100px;
+margin-left: 670px;
+/* padding: 30px; */
+color:dimgray;
+}
+.t3{
+    margin-top: -180px;
+    margin-left: 680px;
+}
+.t4
+{
+    margin-top:-56px;
+    margin-left: 850px;
+    color: rgb(225, 36, 99);
+}
+.thirdpagebg
+{
+    background-image: url(3rdpagebg.png);
+    height: 800px;
+    margin-top: 500px;
+    background-repeat: no-repeat;
+}
+.a
+{
+
+margin-left: 650px;
+margin-top: 60px;
+color: yellowgreen  ;
+}
+.random
+{
+    display: flex;
+    margin-top: -600px;
+    padding-left: 30px; 
+}
+
+.i1
+{
+   margin: 30px;
+   transition: transform0.10s;
+
+}
+.i1:hover
+{
+    
+    transform: rotate(-30deg) scale(1);
+}
+.i2
+{
+    transition: transform0.10s;
+  margin: 30px;
+}
+.i2:hover
+{
+    
+    transform: rotate(30deg) scale(1);
+}
+.i3
+{margin: 30px;
+
+}
+.i4
+{
+margin: 30px;
+}
+
+.just
+{
+    display: flex;
+    margin-top: -50px;
+    padding-left: 30px; 
+}
+
+.i11
+{
+   margin: 30px;
+}
+.i22
+{
+  margin: 30px;
+}
+.i33
+{margin: 30px;
+    
+}
+.i44
+{
+margin: 30px;
+}
+.view
+{
+    border: 2px palevioletred;
+     border-radius: 30px; 
+    border-color: thistle;
+    margin-left:600px;
+    height: 40px;
+    width: 150px;
+
+}
+.footer{
+    height: 100px;
+    margin-bottom: -100px;
+    width: auto;
+   overflow: hidden;
+    
+}
+
+.page4{
+    
+    background-image: url(page4.jpg);
+    background-size:cover;
+    /* height: 600px; */
+    
+    background-repeat: no-repeat;
+    padding-bottom: 700px;
+    background-attachment: fixed;
+}
+.circle
+{
+    margin-top: -600px;
+    margin-left: 100px;
+}
+.foot
+{
+    margin-top:-100px;
+    overflow: hidden;
+}
+
+.glass
+{
+    margin-top: -600px;
+    margin-left: 200px;
+    padding-bottom: 200px;
+    color: black;
+}
+
+
+.c1
+{
+    margin-top: -550px;
+    margin-left: 300px;
+    color: aliceblue;
+}
+.c2
+{
+    margin-top: -10px;
+    margin-left: 250px;
+    color: aliceblue;
+}
+.c3
+{
+    margin-left: 120px;
+   
+}
+.c4
+{
+    margin-left: 250px;
+}
+.C5
+{
+   margin-left: 300px;
+   border: 1px;
+   border-radius: 360px;
+   height: 40px;
+   width: 150px;
+}
+.bottle
+{
+    
+    padding-bottom: 600px;
+    background-repeat: no-repeat;
+    margin-top: 420px;
+    margin-left: 150px;
+}
+
+.a1
+{
+    margin-top: -1250px;
+    margin-left: 550px;
+}
+.a2
+{
+    margin-top: -100px;
+    margin-left: 630px;
+    color: yellowgreen  ;
+}
+.a3
+{
+    margin-top: -700px;
+    margin-left: 670px;
+}
+.leaf
+{
+
+}
+.leaf2
+{
+    margin-left: 1100px;
+    margin-top: 350px;
+}
+.Cucumber{
+    color: orangered;
+    margin-top: 150px;
+    margin-left: 290px;
+}
+.Cucumber1{
+
+    margin-top: -10px;
+    margin-left: 100PX;
+
+}
+.apple
+{
+    margin-top: 120px;
+    margin-left: 290px;
+    color: orangered;
+}
+.apple1
+{
+    margin-top: 00px;
+    margin-left:  100px ;
+}
+
+.lemon{
+    margin-top: -330px;
+    margin-left: 970px;
+    color: orangered;
+    
+    
+}
+.lemon1
+{
+
+    margin-top: -10px;
+    margin-left: 980PX;
+
+}
+.water
+{
+    margin-top: 120px;
+    margin-left: 980px;
+    color: orangered;
+}
+.water1
+{
+    margin-top: -10px;
+    margin-left:  980px ;
+}
+.glass2
+{
+    margin-top: 250px; 
+    overflow: hidden;
+
+}
+.b{
+    margin-top: -620px;
+    margin-left: 180px;
+}
+.b1
+{
+    margin-left: 30px;
+}
+.b3
+{
+ border-radius: 360px;
+ height: 50px;
+ width: 200px;
+ margin-left: 200px;
+}
+.d
+{
+    /* padding: 300px; */
+    margin-top: 500px;
+    margin-left: 350px;
+}
+.d1
+{
+    border: 1px ;
+ 
+    margin-top: -400px;
+    margin-left: 600px;
+}
+.d2
+{
+    margin-top: -200px;
+    margin-left: 620px;
+}
+.d3
+{
+    margin-top: -100px;
+    margin-left: 550px;
+}
+.d4
+{
+    color: yellowgreen;
+    margin-top: -100px;
+    margin-left: 600px;
+}
+.d5
+{
+    margin-top: 300px;
+    margin-left: 350px;
+}
+.d6
+{
+    margin-left: 600px;
+}
+
+.f1
+{
+    margin-top: 200px;
+    margin-left: 600px;
+color: yellowgreen;    
+}
+.f2{
+    margin-left: 550px;
+
+}
+.f3{
+    margin-left: 670px;
+
+}
+.f4
+{
+    margin-left:480px ;
+}
+.f5
+{
+    margin-top: -280px;
+}
+.g{
+    margin-top: -400px;
+    margin-left: 110px;
+    display: flex;
+}
+.g1
+{
+
+}
+.gg1
+{
+    opacity: 20%;
+}
+.g2
+{
+    margin-left: 30px;
+}
+.g3
+{
+    margin-left: 30px;
+}
+.ggg1
+{
+    /* color: black; */
+  background-color: chartreuse;
+    margin-top: -150px;
+   margin-left: 130px;
+}
+.gggg1{
+    margin-top: -80px;
+    margin-left: 30px;
+}
+.m
+{
+    margin-top: 100px;
+    display: flex;
+    overflow: hidden;
+    margin-left: 30px;
+    
+}
+
+.last
+{
+   overflow: hidden;
+   height: 400px;
+}
+
+.last1
+{
+
+    color: aliceblue;
+    margin-top: -300px;
+    margin-left: 50px;
+}
+
+.last2
+{
+
+    color: aliceblue;
+    margin-top: -130px;
+    margin-left: 500px;
+}
+.last3
+{
+    color: aliceblue;
+    margin-left: 750px;
+    margin-top: -155px;
+}
+.last4
+{
+    color: aliceblue;
+    margin-left: 1000px;
+    margin-top: -155px;
+    
+}
+.l5
+{
+  margin-left: 1000px;
+  margin-top: 10px;
+  background-color: olivedrab;
+}
